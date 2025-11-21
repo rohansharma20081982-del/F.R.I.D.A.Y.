@@ -1,2 +1,2 @@
 # F.R.I.D.A.Y.
-a helth care ai agent
+A helth care ai agent
